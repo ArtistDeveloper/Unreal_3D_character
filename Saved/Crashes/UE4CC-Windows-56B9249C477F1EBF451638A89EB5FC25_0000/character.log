@@ -1,0 +1,1027 @@
+﻿Log file open, 08/25/19 22:11:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: character
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.183795
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=HopelessMitty -epicuserid=f98fb489f1e84056a75e796bb6cefb31 -epiclocale=ko-KR
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.25-13.11.29:421][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.25-13.11.29:421][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.25-13.11.29:421][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Engine.ini]
+[2019.08.25-13.11.29:421][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Engine.ini]
+[2019.08.25-13.11.29:422][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Engine.ini]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Engine.ini]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.25-13.11.29:422][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Engine.ini]
+[2019.08.25-13.11.29:422][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Engine.ini]
+[2019.08.25-13.11.29:427][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.25-13.11.29:427][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.25-13.11.29:428][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.25-13.11.29:428][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.25-13.11.29:428][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.25-13.11.29:446][  0]LogHAL: Display: Platform has ~ 16 GB [17063440384 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.25-13.11.29:446][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.25-13.11.29:446][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.25-13.11.29:446][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-13.11.29:446][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.25-13.11.29:446][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.25-13.11.29:446][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-13.11.29:446][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.25-13.11.29:446][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.25-13.11.29:447][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.25-13.11.29:448][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.25-13.11.29:448][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-13.11.29:448][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.25-13.11.29:448][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.25-13.11.29:448][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.25-13.11.29:448][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.25-13.11.29:448][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.25-13.11.29:448][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Engine.ini]
+[2019.08.25-13.11.29:448][  0]LogInit: Computer: DESKTOP-NC1RR4E
+[2019.08.25-13.11.29:448][  0]LogInit: User: Junsu
+[2019.08.25-13.11.29:448][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.25-13.11.29:448][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.25-13.11.29:448][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.08.25-13.11.29:448][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.25-13.11.29:448][  0]LogMemory: Process Physical Memory: 96.54 MB used, 96.54 MB peak
+[2019.08.25-13.11.29:448][  0]LogMemory: Process Virtual Memory: 83.82 MB used, 83.82 MB peak
+[2019.08.25-13.11.29:448][  0]LogMemory: Physical Memory: 5258.26 MB used,  11014.71 MB free, 16272.96 MB total
+[2019.08.25-13.11.29:448][  0]LogMemory: Virtual Memory: 4639.26 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.08.25-13.11.29:485][  0]LogInit: Using OS detected language (ko-KR).
+[2019.08.25-13.11.29:485][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.08.25-13.11.29:486][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.08.25-13.11.29:572][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.25-13.11.29:631][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.25-13.11.29:631][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.25-13.11.29:845][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.25-13.11.29:845][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.25-13.11.29:904][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.08.25-13.11.29:904][  0]LogD3D11RHI:       4029/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.25-13.11.29:918][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.08.25-13.11.29:918][  0]LogD3D11RHI:       128/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.25-13.11.29:921][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.25-13.11.29:921][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.25-13.11.29:921][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.25-13.11.29:952][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.25-13.11.29:952][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.08.25-13.11.29:952][  0]LogWindows: EnumDisplayDevices:
+[2019.08.25-13.11.29:953][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.08.25-13.11.29:954][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.08.25-13.11.29:955][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.08.25-13.11.29:955][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.08.25-13.11.29:956][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.08.25-13.11.29:957][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.08.25-13.11.29:958][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.08.25-13.11.29:959][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.08.25-13.11.29:959][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.08.25-13.11.29:959][  0]LogD3D11RHI:   Driver Version: 387.92 (internal:23.21.13.8792, unified:387.92)
+[2019.08.25-13.11.29:959][  0]LogD3D11RHI:      Driver Date: 10-6-2017
+[2019.08.25-13.11.29:959][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2019.08.25-13.11.29:989][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.25-13.11.29:993][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.25-13.11.29:993][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.25-13.11.29:993][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.25-13.11.30:001][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.25-13.11.30:461][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.25-13.11.30:475][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.25-13.11.30:490][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.25-13.11.30:505][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.25-13.11.30:521][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.25-13.11.30:536][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.25-13.11.30:550][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.25-13.11.30:565][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.25-13.11.30:572][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.25-13.11.30:660][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.25-13.11.30:662][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.25-13.11.30:714][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.25-13.11.30:714][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.25-13.11.30:743][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.25-13.11.30:743][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.25-13.11.30:757][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.25-13.11.30:770][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.25-13.11.30:783][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.25-13.11.30:799][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.25-13.11.30:851][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.25-13.11.30:851][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.25-13.11.30:851][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.25-13.11.30:861][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.25-13.11.30:918][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/Junsu/Desktop/Unreal Project/character/Intermediate/Shaders/WorkingDirectory/8096/).
+[2019.08.25-13.11.30:918][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Junsu/AppData/Local/Temp/UnrealShaderWorkingDir/2BE0E75341E02D2E666E3E80472F6BA8/'.
+[2019.08.25-13.11.30:920][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.25-13.11.30:920][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.25-13.11.30:920][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.25-13.11.31:524][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.25-13.11.31:573][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Junsu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.25-13.11.31:573][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Junsu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.25-13.11.31:573][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Junsu/Desktop/Unreal Project/character/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.25-13.11.31:573][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.25-13.11.31:573][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Junsu/Desktop/Unreal Project/character/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.25-13.11.31:573][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.25-13.11.31:587][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.25-13.11.31:587][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.25-13.11.31:587][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.25-13.11.31:599][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Junsu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.25-13.11.31:599][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.25-13.11.31:599][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.25-13.11.31:625][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.25-13.11.31:626][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.25-13.11.31:626][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.25-13.11.31:714][  0]LogAssetRegistry: FAssetRegistry took 0.0345 seconds to start up
+[2019.08.25-13.11.32:060][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.25-13.11.32:203][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.25-13.11.32:203][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.25-13.11.32:203][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.25-13.11.32:203][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.25-13.11.32:203][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.25-13.11.32:219][  0]LogNetVersion: character 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2749601985)
+[2019.08.25-13.11.32:662][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.056135 seconds
+[2019.08.25-13.11.32:669][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.25-13.11.32:669][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.25-13.11.32:669][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.25-13.11.33:562][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.25-13.11.33:576][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.25-13.11.33:684][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.08.25-13.11.33:684][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.08.25-13.11.33:685][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.08.25-13.11.33:687][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.08.25-13.11.33:769][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.25-13.11.33:908][  0]LogOcInput: OculusInput pre-init called
+[2019.08.25-13.11.34:637][  0]LogEngine: Initializing Engine...
+[2019.08.25-13.11.34:638][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.25-13.11.34:639][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.25-13.11.34:869][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.25-13.11.34:883][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.25-13.11.34:915][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-13.11.34:992][  0]LogInit: FAudioDevice initialized.
+[2019.08.25-13.11.34:993][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.25-13.11.35:064][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Junsu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.25-13.11.35:079][  0]LogInit: Texture streaming: Enabled
+[2019.08.25-13.11.35:100][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.25-13.11.35:121][  0]LogInit: Transaction tracking system initialized
+[2019.08.25-13.11.35:146][  0]BlueprintLog: New page: 에디터 로드
+[2019.08.25-13.11.35:233][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.08.25-13.11.35:349][  0]LogLinker: Warning: '/Game/FirstPersonBP/FirstPersonOverview' 파일을 찾을 수 없습니다.
+[2019.08.25-13.11.35:349][  0]LogLinker: Warning: '/Game/FirstPersonBP/FirstPersonOverview' 파일을 찾을 수 없습니다.
+[2019.08.25-13.11.35:349][  0]LogUObjectGlobals: Warning: 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C' 오브젝트를 찾는 데 실패했습니다.
+[2019.08.25-13.11.35:556][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junsu/Desktop/Unreal Project/character/Content/' took 0.02s
+[2019.08.25-13.11.35:556][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.25-13.11.35:556][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.25-13.11.35:736][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.08.25-13.11.35:736][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.25-13.11.35:736][  0]LightingResults: New page: 라이팅 빌드
+[2019.08.25-13.11.35:739][  0]MapCheck: New page: 맵 체크
+[2019.08.25-13.11.35:739][  0]LightingResults: New page: 라이팅 빌드
+[2019.08.25-13.11.35:766][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.08.25-13.11.35:852][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.08.25-13.11.35:857][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.25-13.11.35:884][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.08.25-13.11.35:884][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.25-13.11.35:884][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.141ms.
+[2019.08.25-13.11.35:884][  0]LogFileHelpers: Loading map 'Template_Default' took 0.149
+[2019.08.25-13.11.36:038][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-13.11.36:046][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-13.11.36:054][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-13.11.36:062][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-13.11.36:078][  0]LogCollectionManager: Loaded 0 collections in 0.001806 seconds
+[2019.08.25-13.11.36:127][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Collections/' took 0.01s
+[2019.08.25-13.11.36:127][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junsu/Desktop/Unreal Project/character/Content/Developers/Junsu/Collections/' took 0.01s
+[2019.08.25-13.11.36:127][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junsu/Desktop/Unreal Project/character/Content/Collections/' took 0.01s
+[2019.08.25-13.11.36:127][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.25-13.11.36:138][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2732 classes and 659 folders.
+[2019.08.25-13.11.36:150][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.25-13.11.36:160][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:167][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:199][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:216][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:236][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:241][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:247][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:253][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:261][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:267][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:298][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:316][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:323][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:329][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-13.11.36:554][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.25-13.11.36:566][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.25-13.11.36:607][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.25-13.11.36:616][  0]LogSlate: Took 0.007572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.08.25-13.11.36:618][  0]LogSlate: Took 0.001709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.08.25-13.11.36:619][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.25-13.11.36:629][  0]LogSlate: Took 0.005483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.25-13.11.36:814][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.08.25-13.11.36:975][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.25-13.11.36:975][  0]LogLoad: (Engine Initialization) Total time: 9.26 seconds
+[2019.08.25-13.11.36:975][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.25-13.11.37:023][  0]LogAssetRegistry: Asset discovery search completed in 5.3306 seconds
+[2019.08.25-13.11.37:025][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.25-13.11.37:025][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2019.08.25-13.11.37:027][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.25-13.11.37:045][  0]LogSlate: Took 0.005832 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.25-13.11.38:012][ 55]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.25-13.11.41:294][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-13.23.14:593][ 73]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_C_DEMO.BP_C_DEMO
+[2019.08.25-13.23.15:054][ 73]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.08.25-13.23.16:066][ 73]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimBlueprintCharacter.AnimBlueprintCharacter
+[2019.08.25-13.23.16:096][ 73]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2019.08.25-13.23.16:096][ 73]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.25-13.23.16:365][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.25-13.23.16:374][ 73]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2019.08.25-13.23.16:375][ 73]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.08.25-13.23.16:686][ 73]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.25-13.23.17:370][ 73]LogSlate: Took 0.005886 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.25-13.23.17:594][ 74]LogSlate: Took 0.005687 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.25-13.23.21:104][265]LogSlate: Window 'AnimBlueprintCharacter' being destroyed
+[2019.08.25-13.45.00:623][877]LogAIModule: Creating AISystem for world myung
+[2019.08.25-13.45.00:637][877]LogAssetEditorManager: Opening Asset editor for World /Game/myung.myung
+[2019.08.25-13.45.00:715][877]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2019.08.25-13.45.00:716][877]Cmd: MAP LOAD FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/myung.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.25-13.45.00:717][877]LightingResults: New page: 라이팅 빌드
+[2019.08.25-13.45.00:718][877]LoadErrors: New page: 맵 로드중: myung.umap
+[2019.08.25-13.45.00:718][877]MapCheck: New page: 맵 체크
+[2019.08.25-13.45.00:718][877]LightingResults: New page: 라이팅 빌드
+[2019.08.25-13.45.00:767][877]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.08.25-13.45.00:783][877]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.25-13.45.00:832][877]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.08.25-13.45.00:888][877]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.25-13.45.00:888][877]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.167ms.
+[2019.08.25-13.45.00:888][877]LogFileHelpers: Loading map 'myung' took 0.173
+[2019.08.25-13.45.01:070][878]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '라 (U+b77c)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.08.25-13.45.01:087][878]LogSlate: Took 0.017772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.08.25-13.45.03:829][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-13.45.51:549][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-13.45.51:635][797]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.25-13.45.51:682][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.45.51:683][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-13.45.51:684][797]PIE: New page: PIE 세션: myung (2019. 8. 26. 오전 7:45:51)
+[2019.08.25-13.45.51:698][797]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.25-13.45.51:702][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004092s)
+[2019.08.25-13.45.51:703][797]LogAIModule: Creating AISystem for world myung
+[2019.08.25-13.45.51:703][797]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2019.08.25-13.45.51:703][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.005030s)
+[2019.08.25-13.45.51:749][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.08.25-13.45.51:775][797]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-13.45.51:874][797]LogInit: FAudioDevice initialized.
+[2019.08.25-13.45.51:920][797]LogLoad: Game class is 'GameModeBase'
+[2019.08.25-13.45.51:923][797]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.25-22.45.51
+[2019.08.25-13.45.51:924][797]LogWorld: Bringing up level for play took: 0.003027
+[2019.08.25-13.45.51:944][797]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.25-13.45.51:951][797]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.25-13.45.51:951][797]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.08.25-13.45.51:952][797]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: 0.321
+[2019.08.25-13.45.51:952][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.46.11:338][906]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-13.46.12:202][956]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.46.12:202][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-13.46.12:235][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-13.46.12:236][956]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.46.12:294][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-13.46.12:357][956]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2019.08.25-13.46.12:378][957]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.08.25-13.46.22:892][537]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Weapon.BP_Weapon
+[2019.08.25-13.46.27:023][735]LogRenderer: Reallocating scene render targets to support 964x540 Format 10 NumSamples 1 (Frame:1).
+[2019.08.25-13.46.37:878][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-13.47.22:988][898]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2019.08.25-13.47.23:008][898]LogBlueprintActionDatabase: Requesting refresh due to module change: PhysicsAssetEditor (loaded)
+[2019.08.25-13.47.23:008][898]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2019.08.25-13.47.23:023][898]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.08.25-13.47.23:881][899]LogRenderer: Reallocating scene render targets to support 964x672 Format 10 NumSamples 1 (Frame:1).
+[2019.08.25-13.47.33:701][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-13.48.31:333][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-13.48.40:363][639]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.08.25-13.48.40:385][639]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.25-13.48.40:426][639]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.25-13.52.42:113][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-13.52.42:228][423]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.25-13.52.42:256][423]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.52.42:256][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-13.52.42:256][423]PIE: New page: PIE 세션: myung (2019. 8. 26. 오전 7:52:42)
+[2019.08.25-13.52.42:256][423]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.25-13.52.42:260][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003819s)
+[2019.08.25-13.52.42:261][423]LogAIModule: Creating AISystem for world myung
+[2019.08.25-13.52.42:261][423]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2019.08.25-13.52.42:261][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.004929s)
+[2019.08.25-13.52.42:370][423]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2019.08.25-13.52.42:393][423]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-13.52.42:465][423]LogInit: FAudioDevice initialized.
+[2019.08.25-13.52.42:494][423]LogLoad: Game class is 'GameModeBase'
+[2019.08.25-13.52.42:496][423]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.25-22.52.42
+[2019.08.25-13.52.42:497][423]LogWorld: Bringing up level for play took: 0.002133
+[2019.08.25-13.52.42:509][423]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: 0.878
+[2019.08.25-13.52.42:509][423]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.53.01:296][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-13.53.02:515][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.53.02:515][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-13.53.02:558][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-13.53.02:558][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.53.02:615][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-13.53.02:627][615]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2019.08.25-13.53.02:646][616]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.08.25-13.53.22:163][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-13.53.29:922][224]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.08.25-13.53.31:154][224]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.25-13.54.09:123][420]LogSlate: Window '프로젝트 세팅' being destroyed
+[2019.08.25-13.54.09:128][420]LogSlate: Window '프로젝트 세팅' being destroyed
+[2019.08.25-13.58.17:787][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-13.58.17:887][515]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.25-13.58.17:914][515]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.58.17:914][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-13.58.17:914][515]PIE: New page: PIE 세션: myung (2019. 8. 26. 오전 7:58:17)
+[2019.08.25-13.58.17:914][515]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.25-13.58.17:918][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003335s)
+[2019.08.25-13.58.17:919][515]LogAIModule: Creating AISystem for world myung
+[2019.08.25-13.58.17:919][515]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2019.08.25-13.58.17:919][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.004593s)
+[2019.08.25-13.58.18:011][515]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2019.08.25-13.58.18:037][515]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-13.58.18:110][515]LogInit: FAudioDevice initialized.
+[2019.08.25-13.58.18:144][515]LogLoad: Game class is 'GameModeBase'
+[2019.08.25-13.58.18:146][515]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.25-22.58.18
+[2019.08.25-13.58.18:147][515]LogWorld: Bringing up level for play took: 0.002257
+[2019.08.25-13.58.18:160][515]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: 0.529
+[2019.08.25-13.58.18:160][515]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.58.23:299][819]Set new viewmode: Unlit
+[2019.08.25-13.58.25:384][944]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-13.58.29:460][188]Set new viewmode: Lit
+[2019.08.25-13.58.30:912][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-13.58.35:955][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-13.58.37:242][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.58.37:243][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-13.58.37:282][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-13.58.37:283][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.58.37:350][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-13.58.37:372][654]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2019.08.25-13.58.37:398][655]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.08.25-13.58.44:418][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-13.58.44:518][ 80]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.25-13.58.44:540][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.58.44:540][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-13.58.44:540][ 80]PIE: New page: PIE 세션: myung (2019. 8. 26. 오전 7:58:44)
+[2019.08.25-13.58.44:540][ 80]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.25-13.58.44:546][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005320s)
+[2019.08.25-13.58.44:547][ 80]LogAIModule: Creating AISystem for world myung
+[2019.08.25-13.58.44:547][ 80]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2019.08.25-13.58.44:547][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.006547s)
+[2019.08.25-13.58.44:600][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.08.25-13.58.44:623][ 80]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-13.58.44:693][ 80]LogInit: FAudioDevice initialized.
+[2019.08.25-13.58.44:722][ 80]LogLoad: Game class is 'GameModeBase'
+[2019.08.25-13.58.44:724][ 80]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.25-22.58.44
+[2019.08.25-13.58.44:724][ 80]LogWorld: Bringing up level for play took: 0.001674
+[2019.08.25-13.58.44:737][ 80]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: 1.106
+[2019.08.25-13.58.44:737][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.59.13:763][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-13.59.14:899][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.59.14:899][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-13.59.14:931][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-13.59.14:932][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-13.59.14:995][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-13.59.15:003][878]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.08.25-13.59.15:039][879]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.08.25-14.02.12:918][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-14.03.40:948][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-14.03.41:098][163]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.25-14.03.41:122][163]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.03.41:122][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-14.03.41:122][163]PIE: New page: PIE 세션: myung (2019. 8. 26. 오전 8:03:41)
+[2019.08.25-14.03.41:123][163]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.25-14.03.41:127][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004445s)
+[2019.08.25-14.03.41:128][163]LogAIModule: Creating AISystem for world myung
+[2019.08.25-14.03.41:128][163]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2019.08.25-14.03.41:128][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.005636s)
+[2019.08.25-14.03.41:184][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.08.25-14.03.41:208][163]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-14.03.41:278][163]LogInit: FAudioDevice initialized.
+[2019.08.25-14.03.41:308][163]LogLoad: Game class is 'GameModeBase'
+[2019.08.25-14.03.41:310][163]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.25-23.03.41
+[2019.08.25-14.03.41:311][163]LogWorld: Bringing up level for play took: 0.001683
+[2019.08.25-14.03.41:324][163]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: -0.307
+[2019.08.25-14.03.41:324][163]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.04.10:867][930]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-14.04.12:254][ 13]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.04.12:254][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.04.12:293][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-14.04.12:293][ 13]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.04.12:350][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.04.12:356][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.08.25-14.04.12:377][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.08.25-14.04.16:116][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-14.04.16:216][236]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.25-14.04.16:237][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.04.16:237][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-14.04.16:237][236]PIE: New page: PIE 세션: myung (2019. 8. 26. 오전 8:04:16)
+[2019.08.25-14.04.16:237][236]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.25-14.04.16:241][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003819s)
+[2019.08.25-14.04.16:242][236]LogAIModule: Creating AISystem for world myung
+[2019.08.25-14.04.16:242][236]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2019.08.25-14.04.16:243][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.005072s)
+[2019.08.25-14.04.16:292][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.08.25-14.04.16:313][236]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-14.04.16:384][236]LogInit: FAudioDevice initialized.
+[2019.08.25-14.04.16:415][236]LogLoad: Game class is 'GameModeBase'
+[2019.08.25-14.04.16:417][236]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.25-23.04.16
+[2019.08.25-14.04.16:417][236]LogWorld: Bringing up level for play took: 0.001375
+[2019.08.25-14.04.16:431][236]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: 0.8
+[2019.08.25-14.04.16:431][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.04.24:346][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-14.04.25:437][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.04.25:438][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.04.25:475][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-14.04.25:476][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.04.25:533][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.04.25:539][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.08.25-14.04.25:555][768]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.08.25-14.04.46:856][ 27]BlueprintLog: New page: BP_C_DEMO 컴파일
+[2019.08.25-14.04.47:159][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   8.44ms
+[2019.08.25-14.04.47:591][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_C_DEMO" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_C_DEMO.uasset" SILENT=true
+[2019.08.25-14.04.47:668][ 45]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/BP_C_DEMO48D8BCAB41428B5E4F04339D279C5CBD.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_C_DEMO.uasset'
+[2019.08.25-14.04.49:139][132]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.25-14.04.49:180][132]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.04.49:180][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-14.04.49:180][132]PIE: New page: PIE 세션: myung (2019. 8. 26. 오전 8:04:49)
+[2019.08.25-14.04.49:180][132]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.25-14.04.49:185][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004554s)
+[2019.08.25-14.04.49:186][132]LogAIModule: Creating AISystem for world myung
+[2019.08.25-14.04.49:186][132]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2019.08.25-14.04.49:186][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.005961s)
+[2019.08.25-14.04.49:249][132]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.08.25-14.04.49:282][132]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-14.04.49:351][132]LogInit: FAudioDevice initialized.
+[2019.08.25-14.04.49:382][132]LogLoad: Game class is 'GameModeBase'
+[2019.08.25-14.04.49:384][132]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.25-23.04.49
+[2019.08.25-14.04.49:384][132]LogWorld: Bringing up level for play took: 0.001400
+[2019.08.25-14.04.49:398][132]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: -0.233
+[2019.08.25-14.04.49:399][132]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.04.51:730][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-14.05.03:919][983]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.05.03:919][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.05.03:963][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-14.05.03:963][983]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.05.04:018][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.05.04:027][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2019.08.25-14.05.04:041][984]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.08.25-14.05.04:913][ 34]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor2)
+[2019.08.25-14.05.04:975][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-14.05.05:397][ 58]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.25-14.05.05:439][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-14.05.06:500][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-14.05.06:600][125]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.25-14.05.06:625][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.05.06:625][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-14.05.06:625][125]PIE: New page: PIE 세션: myung (2019. 8. 26. 오전 8:05:06)
+[2019.08.25-14.05.06:626][125]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.25-14.05.06:628][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002791s)
+[2019.08.25-14.05.06:629][125]LogAIModule: Creating AISystem for world myung
+[2019.08.25-14.05.06:629][125]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2019.08.25-14.05.06:629][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.003847s)
+[2019.08.25-14.05.06:679][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.08.25-14.05.06:701][125]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-14.05.06:771][125]LogInit: FAudioDevice initialized.
+[2019.08.25-14.05.06:800][125]LogLoad: Game class is 'GameModeBase'
+[2019.08.25-14.05.06:802][125]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.25-23.05.06
+[2019.08.25-14.05.06:803][125]LogWorld: Bringing up level for play took: 0.002557
+[2019.08.25-14.05.06:816][125]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: 1.185
+[2019.08.25-14.05.06:816][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.05.31:619][607]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-14.05.32:622][667]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.05.32:622][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.05.32:660][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-14.05.32:661][667]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.05.32:717][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.05.32:724][667]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.08.25-14.05.32:739][668]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.08.25-14.05.36:424][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-14.05.36:508][888]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.25-14.05.36:536][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.05.36:536][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-14.05.36:536][888]PIE: New page: PIE 세션: myung (2019. 8. 26. 오전 8:05:36)
+[2019.08.25-14.05.36:536][888]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.25-14.05.36:539][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003128s)
+[2019.08.25-14.05.36:540][888]LogAIModule: Creating AISystem for world myung
+[2019.08.25-14.05.36:540][888]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2019.08.25-14.05.36:540][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.004196s)
+[2019.08.25-14.05.36:594][888]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.08.25-14.05.36:618][888]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-14.05.36:692][888]LogInit: FAudioDevice initialized.
+[2019.08.25-14.05.36:722][888]LogLoad: Game class is 'GameModeBase'
+[2019.08.25-14.05.36:724][888]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.25-23.05.36
+[2019.08.25-14.05.36:725][888]LogWorld: Bringing up level for play took: 0.001438
+[2019.08.25-14.05.36:738][888]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: 1.106
+[2019.08.25-14.05.36:738][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.06.04:087][517]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-14.06.05:673][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.06.05:674][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.06.05:708][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-14.06.05:708][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.06.05:768][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.06.05:774][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.08.25-14.06.05:789][613]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.08.25-14.06.18:811][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-14.06.18:910][392]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.25-14.06.18:937][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.06.18:937][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-14.06.18:937][392]PIE: New page: PIE 세션: myung (2019. 8. 26. 오전 8:06:18)
+[2019.08.25-14.06.18:937][392]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.25-14.06.18:942][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004828s)
+[2019.08.25-14.06.18:942][392]LogAIModule: Creating AISystem for world myung
+[2019.08.25-14.06.18:943][392]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2019.08.25-14.06.18:943][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.005829s)
+[2019.08.25-14.06.19:000][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.08.25-14.06.19:024][392]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-14.06.19:094][392]LogInit: FAudioDevice initialized.
+[2019.08.25-14.06.19:124][392]LogLoad: Game class is 'GameModeBase'
+[2019.08.25-14.06.19:126][392]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.25-23.06.19
+[2019.08.25-14.06.19:126][392]LogWorld: Bringing up level for play took: 0.001374
+[2019.08.25-14.06.19:139][392]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: -0.492
+[2019.08.25-14.06.19:139][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.06.22:024][561]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-14.06.22:742][604]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.06.22:742][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.06.22:780][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-14.06.22:781][604]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.06.22:843][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.06.22:848][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.08.25-14.06.22:870][605]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.08.25-14.06.45:273][936]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.25-14.06.45:298][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.06.45:298][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-14.06.45:298][936]PIE: New page: PIE 세션: myung (2019. 8. 26. 오전 8:06:45)
+[2019.08.25-14.06.45:298][936]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.25-14.06.45:301][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002977s)
+[2019.08.25-14.06.45:302][936]LogAIModule: Creating AISystem for world myung
+[2019.08.25-14.06.45:302][936]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2019.08.25-14.06.45:302][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.004303s)
+[2019.08.25-14.06.45:354][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.08.25-14.06.45:375][936]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-14.06.45:443][936]LogInit: FAudioDevice initialized.
+[2019.08.25-14.06.45:472][936]LogLoad: Game class is 'GameModeBase'
+[2019.08.25-14.06.45:474][936]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.25-23.06.45
+[2019.08.25-14.06.45:474][936]LogWorld: Bringing up level for play took: 0.001706
+[2019.08.25-14.06.45:487][936]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: -0.144
+[2019.08.25-14.06.45:487][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.07.00:029][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-14.07.01:299][880]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.07.01:299][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.07.01:337][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-14.07.01:338][880]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.07.01:393][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.07.01:399][880]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.08.25-14.07.01:420][881]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.08.25-14.07.15:946][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-14.07.16:045][748]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.25-14.07.16:069][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.07.16:069][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-14.07.16:069][748]PIE: New page: PIE 세션: myung (2019. 8. 26. 오전 8:07:16)
+[2019.08.25-14.07.16:069][748]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.25-14.07.16:073][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003939s)
+[2019.08.25-14.07.16:074][748]LogAIModule: Creating AISystem for world myung
+[2019.08.25-14.07.16:074][748]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2019.08.25-14.07.16:074][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.004830s)
+[2019.08.25-14.07.16:130][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.08.25-14.07.16:153][748]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-14.07.16:225][748]LogInit: FAudioDevice initialized.
+[2019.08.25-14.07.16:256][748]LogLoad: Game class is 'GameModeBase'
+[2019.08.25-14.07.16:258][748]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.25-23.07.16
+[2019.08.25-14.07.16:258][748]LogWorld: Bringing up level for play took: 0.001393
+[2019.08.25-14.07.16:271][748]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: 0.64
+[2019.08.25-14.07.16:271][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.07.17:743][833]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-14.07.18:481][877]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.07.18:482][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.07.18:525][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-14.07.18:525][877]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.07.18:585][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.07.18:591][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.08.25-14.07.18:609][878]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.08.25-14.09.20:385][638]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.08.25-14.09.20:387][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myung" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/myung_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.25-14.09.20:788][638]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/myung_Auto1016532B14A7B03AA2F25D38C4BDB0956.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/myung_Auto1.umap'
+[2019.08.25-14.09.20:799][638]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/myung' took 0.520
+[2019.08.25-14.09.20:799][638]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.520
+[2019.08.25-14.10.06:024][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-14.10.07:303][385]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.25-14.10.07:324][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.10.07:324][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.25-14.10.07:325][385]PIE: New page: PIE 세션: myung (2019. 8. 26. 오전 8:10:07)
+[2019.08.25-14.10.07:325][385]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.25-14.10.07:329][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003799s)
+[2019.08.25-14.10.07:329][385]LogAIModule: Creating AISystem for world myung
+[2019.08.25-14.10.07:329][385]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2019.08.25-14.10.07:329][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.004696s)
+[2019.08.25-14.10.07:385][385]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.08.25-14.10.07:407][385]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-14.10.07:479][385]LogInit: FAudioDevice initialized.
+[2019.08.25-14.10.07:512][385]LogLoad: Game class is 'GameModeBase'
+[2019.08.25-14.10.07:514][385]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.25-23.10.07
+[2019.08.25-14.10.07:514][385]LogWorld: Bringing up level for play took: 0.001491
+[2019.08.25-14.10.07:527][385]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: -0.104
+[2019.08.25-14.10.07:527][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.10.14:606][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.25-14.10.17:025][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.10.17:026][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.10.17:060][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.25-14.10.17:061][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.25-14.10.17:121][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-14.10.17:128][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2019.08.25-14.10.17:147][952]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.08.25-14.10.41:927][428]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2019.08.25-14.10.41:939][428]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2019.08.25-14.10.41:948][428]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.25-14.10.41:985][428]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.25-14.10.42:797][428]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.25-14.12.07:076][416]LogUObjectArray: Warning: Invalid object index 6619240
+[2019.08.25-14.12.07:077][416]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.25-14.12.07:921][416]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.844 s
+[2019.08.25-14.12.07:921][416]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.25-14.12.07:921][416]LogOutputDevice: Error: 
+[2019.08.25-14.12.07:921][416]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.08.25-14.12.07:921][416]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.08.25-14.12.07:921][416]LogOutputDevice: Error: Stack: 
+[2019.08.25-14.12.07:921][416]LogOutputDevice: Error: [Callstack] 0x00007fffc8b3c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.25-14.12.07:921][416]LogOutputDevice: Error: [Callstack] 0x00007fffc83b6fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.25-14.12.07:921][416]LogOutputDevice: Error: [Callstack] 0x00007fffc83c4e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.25-14.12.07:921][416]LogOutputDevice: Error: [Callstack] 0x00007fffc55d37f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.08.25-14.12.07:921][416]LogOutputDevice: Error: [Callstack] 0x00007fffc4405cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.25-14.12.07:921][416]LogOutputDevice: Error: [Callstack] 0x00007fffc43c1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007fffc9615984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007fffc98015e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007fffc965d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007fffc963af5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007fffc9630287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007fffec8db726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007fffec8cef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007fffec8dd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007fffec8cc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007ff8214fca66 USER32.dll!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007ff8214fc582 USER32.dll!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007fffec8de946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007ff723365d3e UE4Editor.exe!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007ff72337554c UE4Editor.exe!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007ff7233755ca UE4Editor.exe!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007ff72338316c UE4Editor.exe!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007ff723385b8e UE4Editor.exe!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007ff821cb7974 KERNEL32.DLL!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: [Callstack] 0x00007ff82213a271 ntdll.dll!UnknownFunction []
+[2019.08.25-14.12.07:922][416]LogOutputDevice: Error: 
+[2019.08.25-14.12.07:928][416]LogStats:                SubmitErrorReport -  0.000 s

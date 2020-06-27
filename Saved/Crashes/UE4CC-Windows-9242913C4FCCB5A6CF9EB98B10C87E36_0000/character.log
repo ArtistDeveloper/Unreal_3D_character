@@ -1,0 +1,1056 @@
+﻿Log file open, 08/23/19 12:47:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: character
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.221532
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=HopelessMitty -epicuserid=f98fb489f1e84056a75e796bb6cefb31 -epiclocale=ko-KR
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.23-03.47.34:426][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.23-03.47.34:426][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.23-03.47.34:426][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Engine.ini]
+[2019.08.23-03.47.34:426][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.23-03.47.34:426][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.23-03.47.34:426][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Engine.ini]
+[2019.08.23-03.47.34:427][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Engine.ini]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Engine.ini]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.23-03.47.34:427][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Engine.ini]
+[2019.08.23-03.47.34:427][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Engine.ini]
+[2019.08.23-03.47.34:435][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.23-03.47.34:436][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.23-03.47.34:437][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.23-03.47.34:437][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.23-03.47.34:437][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.23-03.47.34:437][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.23-03.47.34:460][  0]LogHAL: Display: Platform has ~ 16 GB [17063440384 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.23-03.47.34:460][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.23-03.47.34:460][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.23-03.47.34:460][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.23-03.47.34:461][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.23-03.47.34:466][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.23-03.47.34:466][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.23-03.47.34:466][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Config/Windows/Engine.ini]
+[2019.08.23-03.47.34:467][  0]LogInit: Computer: DESKTOP-NC1RR4E
+[2019.08.23-03.47.34:467][  0]LogInit: User: Junsu
+[2019.08.23-03.47.34:467][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.23-03.47.34:467][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.23-03.47.34:467][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.08.23-03.47.34:467][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.23-03.47.34:467][  0]LogMemory: Process Physical Memory: 96.60 MB used, 96.60 MB peak
+[2019.08.23-03.47.34:467][  0]LogMemory: Process Virtual Memory: 84.20 MB used, 84.20 MB peak
+[2019.08.23-03.47.34:467][  0]LogMemory: Physical Memory: 6990.27 MB used,  9282.69 MB free, 16272.96 MB total
+[2019.08.23-03.47.34:467][  0]LogMemory: Virtual Memory: 4639.26 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.08.23-03.47.34:503][  0]LogInit: Using OS detected language (ko-KR).
+[2019.08.23-03.47.34:503][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.08.23-03.47.34:504][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.08.23-03.47.34:645][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.23-03.47.34:713][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.23-03.47.34:713][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.23-03.47.36:902][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.23-03.47.36:902][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.23-03.47.36:968][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.08.23-03.47.36:968][  0]LogD3D11RHI:       4029/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.08.23-03.47.36:988][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.08.23-03.47.36:988][  0]LogD3D11RHI:       128/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.23-03.47.36:990][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.23-03.47.36:991][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.23-03.47.36:991][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.23-03.47.37:025][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.23-03.47.37:025][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.08.23-03.47.37:025][  0]LogWindows: EnumDisplayDevices:
+[2019.08.23-03.47.37:025][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.08.23-03.47.37:026][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.08.23-03.47.37:027][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.08.23-03.47.37:028][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.08.23-03.47.37:029][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.08.23-03.47.37:029][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.08.23-03.47.37:030][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.08.23-03.47.37:031][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.08.23-03.47.37:031][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.08.23-03.47.37:031][  0]LogD3D11RHI:   Driver Version: 387.92 (internal:23.21.13.8792, unified:387.92)
+[2019.08.23-03.47.37:031][  0]LogD3D11RHI:      Driver Date: 10-6-2017
+[2019.08.23-03.47.37:031][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2019.08.23-03.47.37:059][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.23-03.47.37:063][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.23-03.47.37:063][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.23-03.47.37:063][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.23-03.47.37:072][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.23-03.47.37:722][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.23-03.47.37:736][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.23-03.47.37:751][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.23-03.47.37:765][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.23-03.47.37:784][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.23-03.47.37:798][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.23-03.47.37:814][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.23-03.47.37:828][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.23-03.47.37:836][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.23-03.47.37:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.23-03.47.37:932][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.23-03.47.37:992][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.23-03.47.37:992][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.23-03.47.38:018][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.23-03.47.38:018][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.23-03.47.38:031][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.23-03.47.38:045][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.23-03.47.38:058][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.23-03.47.38:082][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.23-03.47.38:133][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.23-03.47.38:134][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.23-03.47.38:134][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.23-03.47.38:144][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.23-03.47.38:200][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/Junsu/Desktop/Unreal Project/character/Intermediate/Shaders/WorkingDirectory/18064/).
+[2019.08.23-03.47.38:200][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Junsu/AppData/Local/Temp/UnrealShaderWorkingDir/B9030CD64ED6A2C305018F91B329389D/'.
+[2019.08.23-03.47.38:202][  0]LogXGEController: Cleaning working directory: C:/Users/Junsu/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.23-03.47.38:202][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.23-03.47.38:202][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.23-03.47.38:202][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.23-03.47.40:329][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.23-03.47.40:390][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Junsu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.23-03.47.40:390][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Junsu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.23-03.47.40:390][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Junsu/Desktop/Unreal Project/character/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.23-03.47.40:391][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.23-03.47.40:391][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Junsu/Desktop/Unreal Project/character/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.23-03.47.40:391][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.23-03.47.40:412][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.23-03.47.40:412][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.23-03.47.40:412][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.23-03.47.40:424][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Junsu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.23-03.47.40:424][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.23-03.47.40:424][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.23-03.47.40:449][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.23-03.47.40:450][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.23-03.47.40:450][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.23-03.47.40:560][  0]LogAssetRegistry: FAssetRegistry took 0.0340 seconds to start up
+[2019.08.23-03.47.40:902][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.23-03.47.41:134][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.23-03.47.41:134][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.23-03.47.41:134][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.23-03.47.41:134][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.23-03.47.41:134][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.23-03.47.41:167][  0]LogNetVersion: character 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2749601985)
+[2019.08.23-03.47.42:179][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.052957 seconds
+[2019.08.23-03.47.42:186][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.23-03.47.42:186][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.23-03.47.42:186][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.23-03.47.44:669][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.23-03.47.44:681][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.23-03.47.44:803][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.08.23-03.47.44:803][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.08.23-03.47.44:805][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.08.23-03.47.44:806][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.08.23-03.47.44:904][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.23-03.47.45:087][  0]LogOcInput: OculusInput pre-init called
+[2019.08.23-03.47.45:918][  0]LogEngine: Initializing Engine...
+[2019.08.23-03.47.45:919][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.23-03.47.45:920][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.23-03.47.46:326][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.23-03.47.46:341][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.23-03.47.46:391][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.23-03.47.46:559][  0]LogInit: FAudioDevice initialized.
+[2019.08.23-03.47.46:560][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.23-03.47.46:643][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Junsu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.23-03.47.46:659][  0]LogInit: Texture streaming: Enabled
+[2019.08.23-03.47.46:683][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.23-03.47.46:683][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={5B243D37-4CCD-BC36-48D0-E6B1BC086E59}
+[2019.08.23-03.47.46:719][  0]LogInit: Transaction tracking system initialized
+[2019.08.23-03.47.46:745][  0]BlueprintLog: New page: 에디터 로드
+[2019.08.23-03.47.46:835][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.08.23-03.47.46:979][  0]LogLinker: Warning: '/Game/FirstPersonBP/FirstPersonOverview' 파일을 찾을 수 없습니다.
+[2019.08.23-03.47.46:979][  0]LogLinker: Warning: '/Game/FirstPersonBP/FirstPersonOverview' 파일을 찾을 수 없습니다.
+[2019.08.23-03.47.46:979][  0]LogUObjectGlobals: Warning: 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C' 오브젝트를 찾는 데 실패했습니다.
+[2019.08.23-03.47.47:410][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junsu/Desktop/Unreal Project/character/Content/' took 0.02s
+[2019.08.23-03.47.47:411][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.23-03.47.47:411][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.23-03.47.47:735][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.08.23-03.47.47:735][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.23-03.47.47:739][  0]LightingResults: New page: 라이팅 빌드
+[2019.08.23-03.47.47:742][  0]MapCheck: New page: 맵 체크
+[2019.08.23-03.47.47:742][  0]LightingResults: New page: 라이팅 빌드
+[2019.08.23-03.47.47:771][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.08.23-03.47.47:911][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.08.23-03.47.47:924][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.23-03.47.47:953][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.08.23-03.47.47:953][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.23-03.47.47:953][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.141ms.
+[2019.08.23-03.47.47:953][  0]LogFileHelpers: Loading map 'Template_Default' took 0.218
+[2019.08.23-03.47.48:102][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-03.47.48:111][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-03.47.48:119][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-03.47.48:127][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-03.47.48:139][  0]LogCollectionManager: Loaded 0 collections in 0.001625 seconds
+[2019.08.23-03.47.48:167][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junsu/Desktop/Unreal Project/character/Saved/Collections/' took 0.01s
+[2019.08.23-03.47.48:167][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junsu/Desktop/Unreal Project/character/Content/Developers/Junsu/Collections/' took 0.01s
+[2019.08.23-03.47.48:167][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junsu/Desktop/Unreal Project/character/Content/Collections/' took 0.00s
+[2019.08.23-03.47.48:167][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.23-03.47.48:176][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2732 classes and 659 folders.
+[2019.08.23-03.47.48:183][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.23-03.47.48:190][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:196][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:235][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:240][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:245][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:251][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:257][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:261][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:267][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:272][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:276][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:280][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:312][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:317][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:323][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:329][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-03.47.48:502][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.23-03.47.48:508][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.23-03.47.48:523][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.23-03.47.48:533][  0]LogSlate: Took 0.009000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.08.23-03.47.48:541][  0]LogSlate: Took 0.007024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.08.23-03.47.48:541][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.23-03.47.48:549][  0]LogSlate: Took 0.004928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.23-03.47.48:740][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.08.23-03.47.48:866][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.23-03.47.48:866][  0]LogLoad: (Engine Initialization) Total time: 17.21 seconds
+[2019.08.23-03.47.48:866][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.23-03.47.48:915][  0]LogAssetRegistry: Asset discovery search completed in 8.3776 seconds
+[2019.08.23-03.47.48:917][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.23-03.47.48:917][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2019.08.23-03.47.48:919][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.23-03.47.48:937][  0]LogSlate: Took 0.005446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.23-03.47.49:907][ 56]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.23-03.47.58:578][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-03.47.59:053][582]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/b.b
+[2019.08.23-03.47.59:464][582]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.08.23-03.48.00:361][582]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimBlueprintCharacter.AnimBlueprintCharacter
+[2019.08.23-03.48.00:378][582]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2019.08.23-03.48.00:378][582]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.23-03.48.00:601][582]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-03.48.00:605][582]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2019.08.23-03.48.00:605][582]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.08.23-03.48.00:888][582]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.23-03.48.01:148][582]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Weapon.BP_Weapon
+[2019.08.23-03.48.01:825][582]LogSlate: Took 0.003958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.23-03.48.03:761][688]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.23-03.48.06:383][835]LogSlate: Window 'BP_Weapon' being destroyed
+[2019.08.23-03.48.10:110][ 56]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2019.08.23-03.48.13:127][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-03.48.18:353][538]LogAIModule: Creating AISystem for world myung
+[2019.08.23-03.48.18:362][538]LogAssetEditorManager: Opening Asset editor for World /Game/myung.myung
+[2019.08.23-03.48.18:427][538]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2019.08.23-03.48.18:428][538]Cmd: MAP LOAD FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/myung.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.23-03.48.18:428][538]LightingResults: New page: 라이팅 빌드
+[2019.08.23-03.48.18:428][538]LoadErrors: New page: 맵 로드중: myung.umap
+[2019.08.23-03.48.18:429][538]MapCheck: New page: 맵 체크
+[2019.08.23-03.48.18:429][538]LightingResults: New page: 라이팅 빌드
+[2019.08.23-03.48.18:472][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.08.23-03.48.18:477][538]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.23-03.48.18:523][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.08.23-03.48.18:557][538]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.23-03.48.18:559][538]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 1.126ms.
+[2019.08.23-03.48.18:559][538]LogFileHelpers: Loading map 'myung' took 0.132
+[2019.08.23-03.48.18:631][539]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '라 (U+b77c)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.08.23-03.48.18:634][539]LogSlate: Took 0.002156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.08.23-03.48.21:919][734]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.23-03.48.21:936][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myung" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/myung.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.23-03.48.21:981][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.08.23-03.48.22:172][734]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/myungD969C4DA49CC88722B501891FA37FBB4.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/myung.umap'
+[2019.08.23-03.48.22:218][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myung_BuiltData" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/myung_BuiltData.uasset" SILENT=true
+[2019.08.23-03.48.22:243][734]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/myung_BuiltData9C761ECC49BEC0A69C7815A5D53A703A.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/myung_BuiltData.uasset'
+[2019.08.23-03.48.22:979][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-03.48.40:301][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-03.48.40:400][817]BlueprintLog: New page: BP_Weapon 컴파일
+[2019.08.23-03.48.40:583][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.08.23-03.48.40:987][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Weapon" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_Weapon.uasset" SILENT=true
+[2019.08.23-03.48.41:017][837]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/BP_WeaponC52D290E41AC1AC5669C3A88B035ABFA.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_Weapon.uasset'
+[2019.08.23-03.48.45:048][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-03.49.06:082][191]BlueprintLog: New page: b 컴파일
+[2019.08.23-03.49.06:285][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.08.23-03.49.06:703][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/b" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/b.uasset" SILENT=true
+[2019.08.23-03.49.06:743][212]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/b95BAC03D47D05FA99957CD95024352B1.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/b.uasset'
+[2019.08.23-03.49.08:881][338]LogEditorTransaction: Undo Child Actor Class 편집
+[2019.08.23-03.49.08:891][338]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_0:PersistentLevel.b_C_0.CharacterMesh0) Component already registered.
+[2019.08.23-03.49.08:894][338]LogActorComponent: ~FComponentReregisterContext: (/Game/myung.myung:PersistentLevel.b_2.CharacterMesh0) Component already registered.
+[2019.08.23-03.49.08:896][338]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_0:PersistentLevel.b_C_0.CollisionCylinder) Component already registered.
+[2019.08.23-03.49.08:897][338]LogActorComponent: ~FComponentReregisterContext: (/Game/myung.myung:PersistentLevel.b_2.CollisionCylinder) Component already registered.
+[2019.08.23-03.49.08:995][338]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-03.49.12:389][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-03.49.18:297][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-03.49.20:065][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Weapon_C_CHILDACTOR_14.Weapon) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.23-03.49.22:448][137]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Weapon_C_CHILDACTOR_16.Weapon) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.23-03.49.24:727][273]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Weapon_C_CHILDACTOR_18.Weapon) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.23-03.49.26:248][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-03.49.26:331][369]BlueprintLog: New page: BP_Weapon 컴파일
+[2019.08.23-03.49.26:522][369]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.08.23-03.49.26:525][369]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Weapon_C_CHILDACTOR_19.Weapon) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.23-03.49.26:529][369]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Weapon_C_CHILDACTOR_20.Weapon) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.23-03.49.27:419][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Weapon" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_Weapon.uasset" SILENT=true
+[2019.08.23-03.49.27:446][419]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/BP_Weapon15E51AB64450C66E6F12E5899EDF5783.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_Weapon.uasset'
+[2019.08.23-03.49.30:866][621]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.23-03.50.00:096][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-03.50.20:022][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-03.50.54:649][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-03.50.54:778][791]BlueprintLog: New page: b 컴파일
+[2019.08.23-03.50.54:984][791]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.08.23-03.50.55:868][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/b" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/b.uasset" SILENT=true
+[2019.08.23-03.50.55:919][835]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/bE7DFDABF47818A9C246AD1B3EAC074F1.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/b.uasset'
+[2019.08.23-03.50.58:590][989]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.23-03.50.58:617][989]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.23-03.50.58:617][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.23-03.50.58:617][989]PIE: New page: PIE 세션: myung (2019. 8. 23. 오후 9:50:58)
+[2019.08.23-03.50.58:630][989]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.23-03.50.58:633][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003045s)
+[2019.08.23-03.50.58:635][989]LogAIModule: Creating AISystem for world myung
+[2019.08.23-03.50.58:635][989]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2019.08.23-03.50.58:635][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.005068s)
+[2019.08.23-03.50.58:679][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.08.23-03.50.58:714][989]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.23-03.50.58:780][989]LogInit: FAudioDevice initialized.
+[2019.08.23-03.50.58:825][989]LogLoad: Game class is 'GameModeBase'
+[2019.08.23-03.50.58:827][989]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.23-12.50.58
+[2019.08.23-03.50.58:827][989]LogWorld: Bringing up level for play took: 0.001487
+[2019.08.23-03.50.58:844][989]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.23-03.50.58:846][989]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.23-03.50.58:846][989]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.08.23-03.50.58:847][989]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: 0.945
+[2019.08.23-03.50.58:847][989]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.23-03.51.05:634][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.23-03.51.06:716][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.23-03.51.06:716][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-03.51.06:752][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.23-03.51.06:752][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.23-03.51.06:815][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-03.51.06:848][440]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2019.08.23-03.51.06:867][441]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.08.23-03.52.05:547][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myung" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/myung.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.23-03.52.05:613][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.08.23-03.52.05:804][276]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/myung5DF3FABB470A887045BC8AB23EADDA69.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/myung.umap'
+[2019.08.23-03.52.05:861][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myung_BuiltData" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/myung_BuiltData.uasset" SILENT=true
+[2019.08.23-03.52.05:886][276]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/myung_BuiltData6CF8D0974B60C25237013FB257EF95CA.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/myung_BuiltData.uasset'
+[2019.08.23-03.52.11:185][452]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.08.23-03.52.12:258][452]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.23-03.53.31:517][940]LogSlate: Window '프로젝트 세팅' being destroyed
+[2019.08.23-03.53.31:521][940]LogSlate: Window '프로젝트 세팅' being destroyed
+[2019.08.23-03.53.46:812][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-03.54.11:917][371]BlueprintLog: New page: b 컴파일
+[2019.08.23-03.54.12:222][371]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2019.08.23-03.54.12:629][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/b" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/b.uasset" SILENT=true
+[2019.08.23-03.54.12:670][391]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/bEC4411954E7D39B18BD3658961077EFB.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/b.uasset'
+[2019.08.23-03.55.02:244][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-03.56.20:158][150]Cmd: TRANSACTION UNDO
+[2019.08.23-03.56.20:158][150]LogEditorTransaction: Undo 노드 이름변경
+[2019.08.23-03.56.20:254][150]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-03.57.07:030][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-03.57.07:084][600]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter8F1C65114145731194E2EFBF3505AC29.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-03.58.21:273][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-03.58.21:320][894]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter34A3239545EC99DC0EC1D984ECE0C640.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-03.58.21:433][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-03.58.21:471][899]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter923ABFF14FD5A88B9B042691B40A3E80.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-03.58.48:373][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-03.58.48:410][234]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter7D05BE6E4F5697651D8558AC2A7DEEB1.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-03.58.56:221][701]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.23-03.58.59:668][903]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2019.08.23-03.58.59:676][903]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2019.08.23-03.58.59:683][903]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-03.58.59:713][903]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.23-03.59.00:381][903]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.23-03.59.38:896][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-03.59.38:943][109]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter8B5D3E9C4BFA4FF3C7673394C028569D.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-03.59.41:038][157]BlueprintLog: New page: AnimBlueprintCharacter 컴파일
+[2019.08.23-03.59.41:388][157]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2019.08.23-03.59.41:972][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-03.59.42:019][189]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter0C345F2F4541632E8751F1A1DC8E6DC1.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.00.26:020][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.00.26:058][772]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter7FE5DDB6426CFD60237F8FA8DC7F3DF3.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.00.26:170][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.00.26:206][777]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter4CB04FEC4407AE42EA64F687AF349646.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.02.31:310][ 25]LogMetaData: Removing '/Game/BPE_PlayerState.BPE_PlayerState' ref from Metadata '/Game/NewUserDefinedEnum.PackageMetaData'
+[2019.08.23-04.02.31:337][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPE_PlayerState" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BPE_PlayerState.uasset" SILENT=true
+[2019.08.23-04.02.31:344][ 25]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/BPE_PlayerState6D9A5B2142D99021B5D846B37935C50B.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BPE_PlayerState.uasset'
+[2019.08.23-04.02.31:557][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2019.08.23-04.02.31:604][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.08.23-04.02.31:643][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.08.23-04.02.57:447][459]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.08.23-04.02.57:447][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myung" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/myung_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.23-04.02.57:636][459]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/myung_Auto1E6DF678F4F948D8E3BBE98BF1401D175.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/myung_Auto1.umap'
+[2019.08.23-04.02.57:640][459]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/myung' took 0.236
+[2019.08.23-04.02.57:640][459]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.236
+[2019.08.23-04.02.57:642][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimBlueprintCharacter] ([1] browsable assets)...
+[2019.08.23-04.02.57:656][459]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimBlueprintCharacter.AnimBlueprintCharacter]
+[2019.08.23-04.02.57:656][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimBlueprintCharacter]
+[2019.08.23-04.02.57:709][459]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter_Auto1763154264212718FBF63DAA30F77BF6F.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/AnimBlueprintCharacter_Auto1.uasset'
+[2019.08.23-04.02.57:711][459]LogFileHelpers: Auto-saving content packages took 0.068
+[2019.08.23-04.03.38:258][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-04.03.39:271][802]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/BPE_PlayerState.BPE_PlayerState
+[2019.08.23-04.05.29:694][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-04.06.10:101][736]LogSlate: Took 0.006393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.23-04.06.43:896][ 69]BlueprintLog: New page: AnimBlueprintCharacter 컴파일
+[2019.08.23-04.06.43:903][ 69]LogBlueprint: Warning: [Compiler AnimBlueprintCharacter] peace -> BATTLE  will never be taken, please connect something to  Can Enter Transition
+[2019.08.23-04.06.43:904][ 69]LogBlueprint: Warning: [Compiler AnimBlueprintCharacter] BATTLE -> peace  will never be taken, please connect something to  Can Enter Transition
+[2019.08.23-04.06.44:113][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.08.23-04.06.44:117][ 69]LogBlueprint: Warning: [Compiler AnimBlueprintCharacter] [1152.55] AnimBlueprintCharacter 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 220 ms] (/Game/AnimBlueprintCharacter.AnimBlueprintCharacter)
+[2019.08.23-04.06.44:558][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.06.44:612][ 91]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter7259320B49232AD66B7E6EA2DB2CC3B0.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.08.47:566][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.08.47:638][156]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacterE903373940C6CE640D1FF49311F40FFA.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.08.48:480][206]BlueprintLog: New page: AnimBlueprintCharacter 컴파일
+[2019.08.23-04.08.48:485][206]LogBlueprint: Warning: [Compiler AnimBlueprintCharacter] BATTLE -> peace  will never be taken, please connect something to  Can Enter Transition
+[2019.08.23-04.08.48:698][206]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.08.23-04.08.48:703][206]LogBlueprint: Warning: [Compiler AnimBlueprintCharacter] [1277.14] AnimBlueprintCharacter 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 222 ms] (/Game/AnimBlueprintCharacter.AnimBlueprintCharacter)
+[2019.08.23-04.08.49:077][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.08.49:139][224]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter8ADA51C642366B8B5C7DBABF6986AC89.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.08.54:749][557]BlueprintLog: New page: AnimBlueprintCharacter 컴파일
+[2019.08.23-04.08.54:956][557]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.08.23-04.08.55:211][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.08.55:271][569]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter5CAE318946F43031109A0298A0ABA399.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.10.14:763][221]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2019.08.23-04.10.14:779][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-04.10.14:812][221]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.23-04.10.15:199][221]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.23-04.11.20:775][892]BlueprintLog: New page: AnimBlueprintCharacter 컴파일
+[2019.08.23-04.11.21:001][892]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2019.08.23-04.11.21:432][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.11.21:495][913]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter98974E0846F73D2874EF97A8AF90B223.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.11.45:878][369]BlueprintLog: New page: AnimBlueprintCharacter 컴파일
+[2019.08.23-04.11.46:086][369]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.08.23-04.11.46:427][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.11.46:488][386]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter9AA00387411DED3F5E84A18EAA844652.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.12.15:809][115]BlueprintLog: New page: AnimBlueprintCharacter 컴파일
+[2019.08.23-04.12.16:015][115]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2019.08.23-04.12.16:367][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.12.16:425][133]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter1EEAC1584133794190C86E9B6D222B01.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.12.25:333][665]BlueprintLog: New page: AnimBlueprintCharacter 컴파일
+[2019.08.23-04.12.25:548][665]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2019.08.23-04.12.32:614][ 87]BlueprintLog: New page: AnimBlueprintCharacter 컴파일
+[2019.08.23-04.12.32:823][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.08.23-04.13.12:366][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.08.23-04.13.12:367][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myung" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/myung_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.23-04.13.12:557][766]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/myung_Auto2D6DDD13F4C739A82D4D41485C37200C7.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/myung_Auto2.umap'
+[2019.08.23-04.13.12:561][766]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/myung' took 0.237
+[2019.08.23-04.13.12:561][766]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.237
+[2019.08.23-04.13.12:563][766]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/b] ([1] browsable assets)...
+[2019.08.23-04.13.12:578][766]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/b.b]
+[2019.08.23-04.13.12:578][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/b]
+[2019.08.23-04.13.12:578][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/b" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/b_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.08.23-04.13.12:621][766]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/b_Auto26A05D650489FD41E70F54190825C015A.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/b_Auto2.uasset'
+[2019.08.23-04.13.12:622][766]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimBlueprintCharacter] ([1] browsable assets)...
+[2019.08.23-04.13.12:637][766]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimBlueprintCharacter.AnimBlueprintCharacter]
+[2019.08.23-04.13.12:637][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimBlueprintCharacter]
+[2019.08.23-04.13.12:692][766]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter_Auto27D51572445F544F200002D99B29B0A9B.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/AnimBlueprintCharacter_Auto2.uasset'
+[2019.08.23-04.13.12:693][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BPE_PlayerState] ([1] browsable assets)...
+[2019.08.23-04.13.12:693][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/BPE_PlayerState]
+[2019.08.23-04.13.12:693][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPE_PlayerState" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/BPE_PlayerState_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.08.23-04.13.12:707][766]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/BPE_PlayerState_Auto2F7097776448BEBA011A1BFB5951D0483.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/BPE_PlayerState_Auto2.uasset'
+[2019.08.23-04.13.12:707][766]LogFileHelpers: Auto-saving content packages took 0.145
+[2019.08.23-04.16.15:512][380]BlueprintLog: New page: b 컴파일
+[2019.08.23-04.16.15:725][380]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.08.23-04.16.15:921][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/b" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/b.uasset" SILENT=true
+[2019.08.23-04.16.15:966][388]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/bC51C1587417222723FEBAFA2A17DDA4F.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/b.uasset'
+[2019.08.23-04.16.18:348][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-04.17.04:067][809]BlueprintLog: New page: b 컴파일
+[2019.08.23-04.17.04:275][809]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.08.23-04.17.04:741][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/b" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/b.uasset" SILENT=true
+[2019.08.23-04.17.04:782][832]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/b14A03B454F82914796ADE68F9CADF361.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/b.uasset'
+[2019.08.23-04.18.13:759][786]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2019.08.23-04.18.13:773][786]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-04.18.13:803][786]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.23-04.18.14:179][786]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.23-04.18.15:623][871]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2019.08.23-04.18.15:646][871]LogBlueprintActionDatabase: Requesting refresh due to module change: PhysicsAssetEditor (loaded)
+[2019.08.23-04.18.15:646][871]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2019.08.23-04.18.15:663][871]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.08.23-04.18.17:726][957]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.23-04.18.17:742][957]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-04.18.17:774][957]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.23-04.18.20:284][ 90]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.08.23-04.18.20:301][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-04.18.20:330][ 90]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.23-04.18.40:521][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-04.18.42:485][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.23-04.18.48:166][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-04.21.16:028][720]BlueprintLog: New page: b 컴파일
+[2019.08.23-04.21.16:032][720]LogClass: Warning: Type mismatch in CurrentState of b_C - Previous (BoolProperty) Current(ByteProperty) for package:  FObjectReader
+[2019.08.23-04.21.16:325][720]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2019.08.23-04.21.16:430][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/b" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/b.uasset" SILENT=true
+[2019.08.23-04.21.16:478][722]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/bA59D787B4B20F2CE242068ADCADABC92.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/b.uasset'
+[2019.08.23-04.21.27:580][360]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2019.08.23-04.21.27:603][360]LogMetaData: Removing '/Game/BP_C_DEMO.BP_C_DEMO_C' ref from Metadata '/Game/b.PackageMetaData'
+[2019.08.23-04.21.27:603][360]LogMetaData: Removing '/Game/BP_C_DEMO.SKEL_BP_C_DEMO_C' ref from Metadata '/Game/b.PackageMetaData'
+[2019.08.23-04.21.27:665][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_C_DEMO" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_C_DEMO.uasset" SILENT=true
+[2019.08.23-04.21.27:703][360]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/BP_C_DEMO6A40D2A349593D71A58C23BC2B7110EB.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_C_DEMO.uasset'
+[2019.08.23-04.21.27:711][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/b" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/b.uasset" SILENT=true
+[2019.08.23-04.21.27:722][360]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/bE8A3767F40BF63E9E92D0B8470FF224D.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/b.uasset'
+[2019.08.23-04.22.46:300][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.22.46:366][274]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter598BE15A4E7D669EB52D41882BE47242.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.23.57:656][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.23.57:717][155]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter7E2467EB4D0FBFE857354183F0751CA6.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.24.24:396][748]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.08.23-04.24.24:396][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myung" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/myung_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.23-04.24.24:595][748]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/myung_Auto3C844566F45A8538A9A8E9195C7C90A30.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/myung_Auto3.umap'
+[2019.08.23-04.24.24:599][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/myung' took 0.253
+[2019.08.23-04.24.24:599][748]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.253
+[2019.08.23-04.30.25:381][389]BlueprintLog: New page: AnimBlueprintCharacter 컴파일
+[2019.08.23-04.30.25:594][389]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.08.23-04.30.26:061][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.30.26:127][413]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter41B7557C40E3379C7DD8EF93E7C6E4BF.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.31.05:550][255]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.23-04.31.05:586][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.23-04.31.05:586][255]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.08.23-04.31.05:586][255]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2019.08.23-04.31.05:633][255]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.08.23-04.31.05:633][255]LogPlayLevel: PlayLevel: Blueprint regeneration took 47 ms (1 blueprints)
+[2019.08.23-04.31.05:633][255]PIE: New page: PIE 세션: myung (2019. 8. 23. 오후 10:31:05)
+[2019.08.23-04.31.05:634][255]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.23-04.31.05:637][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003817s)
+[2019.08.23-04.31.05:638][255]LogAIModule: Creating AISystem for world myung
+[2019.08.23-04.31.05:638][255]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2019.08.23-04.31.05:638][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.004829s)
+[2019.08.23-04.31.05:679][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.08.23-04.31.05:714][255]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.23-04.31.05:782][255]LogInit: FAudioDevice initialized.
+[2019.08.23-04.31.05:792][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-04.31.05:824][255]LogLoad: Game class is 'GameModeBase'
+[2019.08.23-04.31.05:827][255]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.23-13.31.05
+[2019.08.23-04.31.05:827][255]LogWorld: Bringing up level for play took: 0.001803
+[2019.08.23-04.31.05:842][255]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: 0.12
+[2019.08.23-04.31.05:842][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.23-04.31.05:883][256]LogRenderer: Reallocating scene render targets to support 1272x900 Format 10 NumSamples 1 (Frame:1).
+[2019.08.23-04.31.15:576][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.23-04.31.16:728][815]LogSlate: Window 'character 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.08.23-04.31.16:734][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.23-04.31.16:768][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.23-04.31.16:769][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.23-04.31.16:822][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.08.23-04.31.16:861][816]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.08.23-04.34.02:692][ 96]LogEditorTransaction: Undo 노드 이동
+[2019.08.23-04.34.02:789][ 96]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-04.34.03:713][150]LogEditorTransaction: Undo 노드 이름변경
+[2019.08.23-04.34.03:815][150]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-04.35.03:436][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.35.03:502][697]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter2CA6B2464BF884C4AFA0AF92A4B81BC7.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.35.03:586][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.35.03:639][700]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter44C7EB6A4D919F3A7FBDA9B3A8A8DDF9.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.36.07:436][913]BlueprintLog: New page: AnimBlueprintCharacter 컴파일
+[2019.08.23-04.36.07:654][913]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2019.08.23-04.36.08:062][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.36.08:139][933]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter5DF1050C488319780CDDB98DC6645BD1.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-04.48.24:066][326]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.08.23-04.48.24:087][326]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.23-04.48.24:087][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.23-04.48.24:087][326]PIE: New page: PIE 세션: myung (2019. 8. 23. 오후 10:48:24)
+[2019.08.23-04.48.24:088][326]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_myung
+[2019.08.23-04.48.24:091][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003446s)
+[2019.08.23-04.48.24:092][326]LogAIModule: Creating AISystem for world myung
+[2019.08.23-04.48.24:092][326]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2019.08.23-04.48.24:092][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myung.myung to /Game/UEDPIE_0_myung.myung (0.004351s)
+[2019.08.23-04.48.24:140][326]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.08.23-04.48.24:178][326]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.23-04.48.24:243][326]LogInit: FAudioDevice initialized.
+[2019.08.23-04.48.24:273][326]LogLoad: Game class is 'GameModeBase'
+[2019.08.23-04.48.24:276][326]LogWorld: Bringing World /Game/UEDPIE_0_myung.myung up for play (max tick rate 60) at 2019.08.23-13.48.24
+[2019.08.23-04.48.24:276][326]LogWorld: Bringing up level for play took: 0.001452
+[2019.08.23-04.48.24:289][326]PIE: /Game/UEDPIE_0_myung 에 대한 에디터에서 플레이 시작 시간: 0.632
+[2019.08.23-04.48.24:289][326]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.23-04.49.14:597][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.23-04.49.16:265][441]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.23-04.49.16:265][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-04.49.16:301][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.23-04.49.16:301][441]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/myung.myung:PersistentLevel' has LevelScriptBlueprint '/Game/myung.myung:PersistentLevel.myung' with GeneratedClass '/Game/myung.myung_C' with ClassGeneratedBy '/Game/myung.myung:PersistentLevel.myung'
+[2019.08.23-04.49.16:351][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-04.49.16:356][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.08.23-04.49.16:372][442]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.08.23-04.49.32:514][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-04.50.33:347][ 53]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2019.08.23-04.50.33:365][ 53]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.08.23-04.50.36:537][222]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2019.08.23-04.50.36:553][222]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-04.50.36:584][222]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.23-04.50.36:954][222]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.23-04.50.37:290][241]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.23-04.50.37:303][241]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-04.50.37:335][241]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.23-04.56.23:950][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimBlueprintCharacter" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset" SILENT=true
+[2019.08.23-04.56.24:014][767]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/AnimBlueprintCharacter87E92F4E4EE97B133D1DADB789AFFCCB.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/AnimBlueprintCharacter.uasset'
+[2019.08.23-05.08.38:117][844]BlueprintLog: New page: BP_C_DEMO 컴파일
+[2019.08.23-05.08.38:350][844]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.08.23-05.08.38:803][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_C_DEMO" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_C_DEMO.uasset" SILENT=true
+[2019.08.23-05.08.38:853][866]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/BP_C_DEMO407E0CAD483AAFB74B6DCEA3974F20E9.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_C_DEMO.uasset'
+[2019.08.23-05.09.04:409][627]Cmd: TRANSACTION UNDO
+[2019.08.23-05.09.04:409][627]LogEditorTransaction: Undo 노드 이동
+[2019.08.23-05.09.04:521][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-05.09.05:750][699]LogEditorTransaction: Redo 노드 이동
+[2019.08.23-05.09.05:852][699]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-05.09.35:778][920]BlueprintLog: New page: BP_C_DEMO 컴파일
+[2019.08.23-05.09.35:994][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.08.23-05.09.36:275][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_C_DEMO" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_C_DEMO.uasset" SILENT=true
+[2019.08.23-05.09.36:319][930]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/BP_C_DEMO5A5251F34840AD66FE1BACBDC43CA501.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_C_DEMO.uasset'
+[2019.08.23-05.09.42:070][195]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_character.BP_character
+[2019.08.23-05.10.30:733][ 79]LogEditorTransaction: Undo 노드 이동
+[2019.08.23-05.10.30:843][ 79]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-05.10.32:564][181]LogEditorTransaction: Undo 노드 이동
+[2019.08.23-05.10.32:673][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-05.10.33:774][246]LogEditorTransaction: Undo 노드 이동
+[2019.08.23-05.10.33:881][246]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-05.10.34:615][289]LogEditorTransaction: Undo 클립보드 내용을 붙여넣습니다.
+[2019.08.23-05.10.34:726][289]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-05.11.06:716][194]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.08.23-05.11.06:716][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myung" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/myung_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.23-05.11.06:929][194]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/myung_Auto4416E4EB347EC2B2D248DF7BF61072AA9.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/myung_Auto4.umap'
+[2019.08.23-05.11.06:933][194]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/myung' took 0.269
+[2019.08.23-05.11.06:933][194]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.269
+[2019.08.23-05.11.06:938][194]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_C_DEMO] ([1] browsable assets)...
+[2019.08.23-05.11.06:957][194]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_C_DEMO.BP_C_DEMO]
+[2019.08.23-05.11.06:958][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_C_DEMO]
+[2019.08.23-05.11.06:958][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_C_DEMO" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/BP_C_DEMO_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.08.23-05.11.07:001][194]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/BP_C_DEMO_Auto4FFC08EAF4BB61E9D4ADEF38317D30744.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/Autosaves/Game/BP_C_DEMO_Auto4.uasset'
+[2019.08.23-05.11.07:002][194]LogFileHelpers: Auto-saving content packages took 0.064
+[2019.08.23-05.11.46:250][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_C_DEMO" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_C_DEMO.uasset" SILENT=true
+[2019.08.23-05.11.46:285][529]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/BP_C_DEMO2324FD1A46163A32741DEC9E0579670B.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_C_DEMO.uasset'
+[2019.08.23-05.11.52:642][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_C_DEMO" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_C_DEMO.uasset" SILENT=true
+[2019.08.23-05.11.52:676][892]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/BP_C_DEMO8B810123491342445E7C708C4353E27F.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_C_DEMO.uasset'
+[2019.08.23-05.16.55:158][375]BlueprintLog: New page: BP_C_DEMO 컴파일
+[2019.08.23-05.16.55:389][375]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.08.23-05.16.55:593][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_C_DEMO" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_C_DEMO.uasset" SILENT=true
+[2019.08.23-05.16.55:648][380]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/BP_C_DEMOD4CA2A734A71DB89E15F90A4CF313643.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BP_C_DEMO.uasset'
+[2019.08.23-05.17.11:516][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2019.08.23-05.17.28:299][277]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.23-05.17.28:316][277]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.23-05.17.29:060][277]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.23-05.17.29:146][277]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/BP_character.BP_character
+[2019.08.23-05.17.29:730][277]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2019.08.23-05.17.29:970][277]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.08.23-05.17.30:005][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.08.23-05.17.30:037][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.08.23-05.17.34:237][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.23-05.17.36:119][554]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_C_DEMO.BP_C_DEMO
+[2019.08.23-05.17.38:663][671]LogSlate: Window 'BP_C_DEMO' being destroyed
+[2019.08.23-05.17.40:196][761]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Weapon.BP_Weapon
+[2019.08.23-05.17.46:349][105]LogAssetEditorManager: Opening Asset editor for World /Game/myung.myung
+[2019.08.23-05.17.46:389][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.08.23-05.17.49:074][105]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.08.23-05.17.49:081][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPE_PlayerState" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BPE_PlayerState.uasset" SILENT=true
+[2019.08.23-05.17.49:097][105]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/BPE_PlayerState2F0F0CD14ADA7C819A0DF1B74C03B69C.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/BPE_PlayerState.uasset'
+[2019.08.23-05.17.49:103][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myung" FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/myung.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.23-05.17.49:143][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.08.23-05.17.49:336][105]LogSavePackage: Moving '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Saved/myungDDF771214FD8F8BD80035B8AC462D56C.tmp' to '../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/myung.umap'
+[2019.08.23-05.17.49:378][105]LogFileHelpers: Saving map 'myung' took 0.275
+[2019.08.23-05.17.49:384][105]Cmd: MAP LOAD FILE="../../../../../../Users/Junsu/Desktop/Unreal Project/character/Content/myung.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.23-05.17.49:384][105]LightingResults: New page: 라이팅 빌드
+[2019.08.23-05.17.49:385][105]LoadErrors: New page: 맵 로드중: myung.umap
+[2019.08.23-05.17.49:386][105]MapCheck: New page: 맵 체크
+[2019.08.23-05.17.49:386][105]LightingResults: New page: 라이팅 빌드
+[2019.08.23-05.17.49:430][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.08.23-05.17.49:491][105]LogAIModule: Creating AISystem for world myung
+[2019.08.23-05.17.49:500][105]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.23-05.17.49:545][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.08.23-05.17.49:583][105]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.23-05.17.49:584][105]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.234ms.
+[2019.08.23-05.17.49:585][105]LogFileHelpers: Loading map 'myung' took 0.204
+[2019.08.23-05.17.52:463][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-05.17.55:463][387]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimBlueprintCharacter.AnimBlueprintCharacter
+[2019.08.23-05.17.55:482][387]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-05.17.55:760][387]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.23-05.18.28:554][295]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Weapon.BP_Weapon
+[2019.08.23-05.46.25:031][931]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimStarterPack/BS_Jog.BS_Jog
+[2019.08.23-05.46.25:047][931]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.23-05.46.25:080][931]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.23-05.46.25:464][931]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.23-05.47.02:966][300]LogUObjectArray: Warning: Other object in slot
+[2019.08.23-05.47.02:966][300]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.23-05.47.03:648][300]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.682 s
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: 
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: Stack: 
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: [Callstack] 0x00007ffaa2e9c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: [Callstack] 0x00007ffaa2716fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: [Callstack] 0x00007ffaa2724e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: [Callstack] 0x00007ffaa1ca37f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: [Callstack] 0x00007ffa97635cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: [Callstack] 0x00007ffa975f1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: [Callstack] 0x00007ffac3405984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: [Callstack] 0x00007ffac35f15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: [Callstack] 0x00007ffac344d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: [Callstack] 0x00007ffac342af5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.23-05.47.03:648][300]LogOutputDevice: Error: [Callstack] 0x00007ffac3420287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: [Callstack] 0x00007ffaf3ddb726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: [Callstack] 0x00007ffaf3dcef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: [Callstack] 0x00007ffaf3ddd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: [Callstack] 0x00007ffaf3dcc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: [Callstack] 0x00007ffafd02ca66 USER32.dll!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: [Callstack] 0x00007ffafd02c582 USER32.dll!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: [Callstack] 0x00007ffaf3dde946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: [Callstack] 0x00007ff636205d3e UE4Editor.exe!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: [Callstack] 0x00007ff63621554c UE4Editor.exe!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: [Callstack] 0x00007ff6362155ca UE4Editor.exe!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: [Callstack] 0x00007ff63622316c UE4Editor.exe!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: [Callstack] 0x00007ff636225b8e UE4Editor.exe!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: [Callstack] 0x00007ffaff117974 KERNEL32.DLL!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: [Callstack] 0x00007ffaff9da271 ntdll.dll!UnknownFunction []
+[2019.08.23-05.47.03:649][300]LogOutputDevice: Error: 
+[2019.08.23-05.47.03:657][300]LogStats:                SubmitErrorReport -  0.000 s
